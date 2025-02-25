@@ -1,6 +1,8 @@
 .header {
 	background-color:var(--clr-black);
 	color: var(--clr-white);
+	position: relative;
+	z-index: 10;
 }
 .header__wrapper {
 	width: 100%;
