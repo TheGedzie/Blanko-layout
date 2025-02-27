@@ -30,7 +30,7 @@
     display: flex;
     row-gap: 12px;
     flex-direction: column;
-    width: 292px;
+    max-width: 292px;
     height: 95px;
     align-items: start;
     justify-content: end;
